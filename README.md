@@ -1,0 +1,2 @@
+# myAtomPackage
+myAtomPackage
